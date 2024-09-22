@@ -1,2 +1,1 @@
-# sba308javascriptfundamentals
-# sba308javascriptfundaentals
+# SBA308JavascriptFundamental
